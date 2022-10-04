@@ -15,5 +15,5 @@
 <sup>Only available for freelancing || part-time.  
 <sup>(👮 ⭐⭐ currently serving in the military)</sup><hr />
 <div align="center">
-  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+  <b>كل ما علينا أن نفعله ، هو ان نحدد ماذا سنفعل بالوقت الذي أُعطي لنا</b>
 </div>
