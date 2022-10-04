@@ -15,5 +15,5 @@
 <sup>Only available for freelancing || part-time.  
 <sup>(👮 ⭐⭐ currently serving in the military)</sup><hr />
 <div align="center">
-  <b>كل ما علينا أن نفعله ، هو ان نحدد ماذا سنفعل بالوقت الذي أُعطي لنا</b>
+  <b>All we have to do is to decide what we will do with the time that is given to us</b>
 </div>
