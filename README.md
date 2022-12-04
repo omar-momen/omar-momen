@@ -16,5 +16,5 @@
 <sup>Only available for freelancing || part-time.  
 <sup>(👮 ⭐⭐ currently serving in the military)</sup><hr />
 <div align="center">
-  <h1>"All we have to do is to decide what we will do with the time that is given to us"</h1>
+  <h2>"All we have to do is to decide what we will do with the time that is given to us"</h2>
 </div>
