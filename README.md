@@ -13,8 +13,7 @@
 🔹 I would like to work with Node.js 💚 (preferably in TS), & Python 🐍  
 🔸 In love with JS ❤  
 
-<sup>Only available for freelancing || part-time.  
-<sup>(👮 ⭐⭐ currently serving in the military)</sup><hr />
+<h4>Only available for freelancing || part-time.</sup><hr />
 <div align="center">
   <h2>"وَقُل رَّبِّ زِدْنِي عِلْمًا"</h2>
 </div>
