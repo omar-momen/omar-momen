@@ -13,7 +13,7 @@
 🔹 I would like to work with Node.js 💚 (preferably in TS), & Python 🐍  
 🔸 In love with JS ❤  
 
-<h4>Only available for freelancing || part-time.</sup><hr />
+<h6>Only available for freelancing || part-time.</sup><hr />
 <div align="center">
   <h2>"وَقُل رَّبِّ زِدْنِي عِلْمًا"</h2>
 </div>
